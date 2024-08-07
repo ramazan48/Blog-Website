@@ -84,7 +84,7 @@ const Footer = () => {
 
       {/* Copyright */}
       <Typography variant="body1" sx={{ mt: 5 }}>
-        © 2024 UsBlog. All rights reserved.
+        © 2024 Blog. All rights reserved.
       </Typography>
       <Typography variant="body2">
         Designed with ❤️ by <span style={{ fontStyle: 'italic', color: '#ff7c09' }}>Anonymous</span>
