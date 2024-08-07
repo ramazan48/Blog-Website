@@ -101,7 +101,7 @@ export default function ResponsiveAppBar() {
                         component="div"
                         sx={{ mr: 2, fontWeight: 'bold', display: { xs: 'none', md: 'flex' } }}
                     >
-                        UsBLOG
+                        BLOG
                     </Typography>
 
                     <Box sx={{ display: { xs: 'none', md: 'flex' }, justifyContent: 'center', flexGrow: 1 }}>

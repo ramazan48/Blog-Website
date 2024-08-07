@@ -12,7 +12,7 @@ const BlogBanner = () => {
       }}
     >
       <Typography variant="h3" color="white" fontWeight="bold">
-        Welcome To UsBlog
+        Welcome To Blog
       </Typography>
 
       <Typography

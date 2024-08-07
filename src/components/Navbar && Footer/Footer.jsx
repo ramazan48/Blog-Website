@@ -87,7 +87,7 @@ const Footer = () => {
         © 2024 UsBlog. All rights reserved.
       </Typography>
       <Typography variant="body2">
-        Designed with ❤️ by <span style={{ fontStyle: 'italic', color: '#ff7c09' }}>Ramazan</span>
+        Designed with ❤️ by <span style={{ fontStyle: 'italic', color: '#ff7c09' }}>Anonymous</span>
       </Typography>
     </Box>
   );
