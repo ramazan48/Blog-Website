@@ -7,7 +7,7 @@ const BlogBanner = () => {
       id="BlogBanner"
       sx={{
         textAlign: 'center',
-        backgroundColor: 'primary.main',
+        backgroundColor: 'red',
         padding: { xs: '45px 0 65px', md: '60px 0 140px' },
       }}
     >

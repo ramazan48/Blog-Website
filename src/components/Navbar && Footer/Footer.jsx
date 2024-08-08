@@ -8,7 +8,7 @@ const Footer = () => {
     <Box
       id="Footer"
       sx={{
-        backgroundColor: '#121726',
+        backgroundColor: 'magenta',
         color: '#767d96',
         py: 3,
         textAlign: 'center',
@@ -53,13 +53,13 @@ const Footer = () => {
             Follow Us
           </Typography>
           <Box sx={{ display: 'flex', justifyContent: 'center' }}>
-            <Link href="https://www.facebook.com/people/Usaid-Alhadithy/pfbid0gusur59DiWZDTSrWeuMLfRiADdjjAbDA5TK5TvfTYbFkhKVDgJzfHSdgXPCmrZFZl/" target="_blank" color="inherit" sx={{ mr: 1, '&:hover': { color: 'blue' } }}>
+            <Link href="" target="_blank" color="inherit" sx={{ mr: 1, '&:hover': { color: 'blue' } }}>
               <FacebookIcon />
             </Link>
-            <Link href="https://www.instagram.com/usaid_alhadithy/?img_index=1" target="_blank" color="inherit" sx={{ mr: 1, '&:hover': { color: '#c7109b' } }}>
+            <Link href="" target="_blank" color="inherit" sx={{ mr: 1, '&:hover': { color: '#c7109b' } }}>
               <InstagramIcon />
             </Link>
-            <Link href="https://www.linkedin.com/in/usaid-alhadithy-143b47259/" target="_blank" color="inherit" sx={{ '&:hover': { color: 'blue' } }}>
+            <Link href="" target="_blank" color="inherit" sx={{ '&:hover': { color: 'blue' } }}>
               <LinkedInIcon />
             </Link>
           </Box>
@@ -87,7 +87,7 @@ const Footer = () => {
         © 2024 Blog. All rights reserved.
       </Typography>
       <Typography variant="body2">
-        Designed with ❤️ by <span style={{ fontStyle: 'italic', color: '#ff7c09' }}>Anonymous</span>
+        Designed with ❤️ by <span style={{ fontStyle: 'italic', color: 'white' }}>Anonymous</span>
       </Typography>
     </Box>
   );
